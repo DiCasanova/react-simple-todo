@@ -1,4 +1,4 @@
-# Getting Started with "Web Engineering 1 / Group 3 Todo App"
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
